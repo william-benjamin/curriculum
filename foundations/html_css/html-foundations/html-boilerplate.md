@@ -152,3 +152,4 @@ But it's still good to know how to write the boilerplate yourself in case you fi
 - What is the HTML element?
 - What is the purpose of the head element?
 - What is the purpose of the body element?
+- What is the standard character encoding set which is set in a meta tag?
